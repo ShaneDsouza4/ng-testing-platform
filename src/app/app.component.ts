@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'social-platform';
+  //title = undefined; //To fail the Unit Test
 }
